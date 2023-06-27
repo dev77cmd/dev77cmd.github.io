@@ -1,5 +1,5 @@
 html { 
-  background: url(./images/NY-White.jpeg) no-repeat center center fixed; 
+  background: url(NY-White.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,17 +18,17 @@ body {
 
 @font-face {
   font-family: 'source-code-pro';
-  src: url(./fonts/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf);
+  src: url(SourceCodePro-VariableFont_wght.ttf);
 }
 
 @font-face {
   font-family: 'nunito-sans';
-  src: url(./fonts/Nunito_Sans/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf);
+  src: url(NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf);
 }
 
 @font-face {
   font-family: 'poppins';
-  src: url(./fonts/Poppins/Poppins-Regular.ttf);
+  src: url(Poppins-Regular.ttf);
 }
 
 .colors {
