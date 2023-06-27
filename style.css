@@ -1,0 +1,220 @@
+html { 
+  background: url(./images/NY-White.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  back
+}
+
+header {
+  text-align: center;
+  font-size: 50px;
+}
+
+body {
+  width: 100%;
+}
+
+@font-face {
+  font-family: 'source-code-pro';
+  src: url(./fonts/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: 'nunito-sans';
+  src: url(./fonts/Nunito_Sans/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf);
+}
+
+@font-face {
+  font-family: 'poppins';
+  src: url(./fonts/Poppins/Poppins-Regular.ttf);
+}
+
+.colors {
+  font-size: 30px;
+  text-align: left;
+}
+
+.container-colors {
+  border: 2px solid gray;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 200px;
+  margin: 50px;
+ 
+}
+
+.coolblue {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 70px;
+  padding: 30px 140px;
+  background-color: #2d5dcc;
+  color: #ffffff;
+  text-align: center;
+}
+
+.pink {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 70px;
+  padding: 30px 140px;
+  background-color: #d957d9;
+  color: #ffffff;
+  text-align: center;
+}
+
+.mintgreen {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 70px;
+  padding: 30px 140px;
+  background-color: #4fe0b0;
+  color: #ffffff;
+  text-align: center;
+}
+
+.beige {
+  display: inline-block;
+  margin-top: 70px;
+  padding: 30px 140px;
+  background-color: #efd9ca;
+  color: #ffffff;
+  text-align: center;
+}
+
+.fonts-heading {
+  font-size: 30px;
+  text-align: left;
+}
+.container-fonts {
+  border-style: border-box;
+  border: 2px solid gray;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 200px;
+  margin: 50px;
+}
+
+.sourcecodepro {
+  display: inline-block;
+  border-style: border-box;
+  text-align: left;
+  font-family: 'source-code-pro', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-right: 10px;
+  margin-top: 70px;
+  padding: 50px 10px;
+}
+
+.sourcecodepro #sourcecodepro-heading {
+  text-decoration: underline;
+}
+
+.sourcecodepro #src-mid-strong {
+  font-weight: bold;
+}
+
+.sourcecodepro #src-bot-it {
+  font-style: italic;
+}
+
+.nunitosans {
+  display: inline-block;
+  text-align: left;
+  font-family: 'nunito-sans', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-right: 10px;
+  margin-top: 70px;
+  padding: 50px 10px;
+}
+
+.nunitosans #nunitosans-heading {
+  text-decoration: underline;
+}
+
+.nunitosans #nun-mid-strong {
+  font-weight: bold;
+}
+
+.nunitosans #nun-bot-it {
+  font-style: italic;
+}
+
+.poppins {
+  display: inline-block;
+  text-align: left;
+  font-family: 'poppins', sans-serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-right: 10px;
+  margin-top: 70px;
+  padding: 50px 10px;
+}
+
+.poppins #poppins-heading {
+  text-decoration: underline;
+}
+
+.poppins #pop-mid-strong {
+  font-weight: bold;
+}
+
+.poppins #pop-bot-it {
+  font-style: italic;
+}
+
+.container-text-styles {
+  border-style: border-box;
+  border: 2px solid gray;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 200px;
+  margin: 50px;
+}
+
+.container-text-styles .text-styles-heading {
+  font-size: 30px;
+  text-align: left;
+}
+
+.container-text-styles .text-styles-h1 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.font-list {
+  list-style-type: disc;
+  font-size: 20px;
+}
+
+.container-text-styles .text-styles-h2 {
+  font-size: 35px;
+  font-weight: 400;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.font-list-2 {
+  list-style-type: disc;
+  font-size: 20px;
+}
+
+.container-text-styles .text-styles-h3 {
+  font-size: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.font-list-3 {
+  list-style-type: disc;
+  font-size: 20px;
+}
